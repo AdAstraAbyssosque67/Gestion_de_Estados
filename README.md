@@ -24,7 +24,7 @@ enum EstadoSolicitud
 
 # Ejemlpos de Uso
 
-##Registrar una Solicitud
+## Registrar una Solicitud
 
 <img width="1919" height="1079" alt="Captura de pantalla 2026-04-18 175810" src="https://github.com/user-attachments/assets/7e30ce1b-5f1a-4787-a6c3-0a4b5c997d5e" />
 
