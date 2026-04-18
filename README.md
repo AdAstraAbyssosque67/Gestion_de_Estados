@@ -38,9 +38,9 @@ enum EstadoSolicitud
 
 ##
 
-### Autor: José Garrido Mesa
-### Materia: Programación Básica
-### Profesor: Gamalier Reyes del Carmen
+Autor: José Garrido Mesa
+Materia: Programación Básica
+Profesor: Gamalier Reyes del Carmen
 
 
 
